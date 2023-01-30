@@ -1,2 +1,2 @@
 # ecsite
-##Javaで作成したECサイト
+Javaで作成したECサイト
